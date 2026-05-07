@@ -25,6 +25,7 @@ I'm currently building local-first tools for industrial operations — especiall
 
 ```text
 Next.js · React · TypeScript · Tauri · SQLite · Tailwind CSS · Playwright · GitHub
+```
 
 ## Projects
 
@@ -44,7 +45,9 @@ Focus areas:
 
 Status:
 
+```text
 Private pilot project · Repository not public
+```
 
 ### KitControl Offline
 
@@ -60,7 +63,9 @@ Focus areas:
 
 Status:
 
+```text
 Private concept project · Repository not public
+```
 
 ## Why some projects are private
 
@@ -70,10 +75,12 @@ Public repositories focus on concepts, architecture notes and reusable workflow 
 
 ## Principles
 
-Real problem first.  
-System before polish.  
-Traceability over assumptions.  
+```text
+Real problem first.
+System before polish.
+Traceability over assumptions.
 Offline is not a fallback — it is a requirement.
+```
 
 ## About me
 
