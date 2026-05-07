@@ -23,9 +23,7 @@ I'm currently building local-first tools for industrial operations — especiall
 
 ## Tech stack I'm working with
 
-```text
-Next.js · React · TypeScript · Tauri · SQLite · Tailwind CSS · Playwright · GitHub
-```
+**Next.js · React · TypeScript · Tauri · SQLite · Tailwind CSS · Playwright · GitHub**
 
 ## Projects
 
@@ -35,7 +33,7 @@ Private offline-first desktop app project for technician equipment management.
 
 Built to structure equipment issue, return, inspection and audit-relevant tracking workflows in a local-first environment.
 
-Focus areas:
+**Focus areas:**
 
 - local-first desktop operation
 - structured issue and return workflows
@@ -43,17 +41,13 @@ Focus areas:
 - audit-ready documentation
 - practical usability for field-service environments
 
-Status:
-
-```text
-Private pilot project · Repository not public
-```
+**Status:** Private pilot project · Repository not public
 
 ### KitControl Offline
 
 Private configurable offline toolkit app concept for teams and departments that need structured equipment, inventory or workflow management.
 
-Focus areas:
+**Focus areas:**
 
 - guided setup wizard
 - configurable fields
@@ -61,11 +55,7 @@ Focus areas:
 - department-specific workflows
 - offline-first architecture
 
-Status:
-
-```text
-Private concept project · Repository not public
-```
+**Status:** Private concept project · Repository not public
 
 ## Why some projects are private
 
@@ -75,12 +65,10 @@ Public repositories focus on concepts, architecture notes and reusable workflow 
 
 ## Principles
 
-```text
-Real problem first.
-System before polish.
-Traceability over assumptions.
-Offline is not a fallback — it is a requirement.
-```
+- Real problem first.
+- System before polish.
+- Traceability over assumptions.
+- Offline is not a fallback — it is a requirement.
 
 ## About me
 
