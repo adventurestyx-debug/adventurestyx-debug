@@ -2,21 +2,22 @@
 
 I'm an industrial technician with a background in electrical engineering, commissioning and technical field support.
 
-I build practical offline-first tools from real operational problems — especially around equipment tracking, field-service workflows and audit-ready process documentation.
+I build offline-first tools that turn real operational problems into structured, traceable systems.
+
+My focus is practical software for field operations, equipment workflows and audit-ready documentation.
 
 ## What I work on
 
 - Offline-first desktop applications
-- Equipment tracking and field-service workflows
-- Audit-ready process documentation
-- Local-first data storage with SQLite
-- Practical tools for technical teams
+- Equipment and inventory workflows
+- Field-service process tools
+- Audit-ready documentation
+- Local-first systems with SQLite
+- Practical internal tools for technical teams
 
 ## Current focus
 
-I'm currently building offline-first tools for industrial operations, especially around technician equipment management, structured handover processes and traceable workflows.
-
-The goal is simple:
+I'm currently building local-first tools for industrial operations — especially around technician equipment management, structured handovers and traceable workflows.
 
 > Make operational responsibility visible, structured and reliable.
 
